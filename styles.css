@@ -5,3 +5,13 @@
     /* Your desired color code */
     /* Add any other styles you want */
 }
+
+.rounded-box {
+    background-color: #5E747F;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
