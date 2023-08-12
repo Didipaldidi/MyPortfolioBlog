@@ -15,3 +15,15 @@
     margin-right: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+
+/* Add this CSS to your existing styles.css or in a <style> tag in the <head> of your HTML */
+
+/* Navbar */
+.navbar.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* Rest of your existing styles */
